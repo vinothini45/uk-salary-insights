@@ -3,7 +3,7 @@
 An interactive dashboard exploring salaries across jobs, cities and industries in the UK.
 
 ## 🔗 Live Dashboard
-👉 [Click here to view]()
+👉 [Click here to view](https://uk-salary-insights-l5fev7ohfdepvcs9pjs87p.streamlit.app/)
 
 ## 📊 Features
 - 🗺️ Interactive UK salary map by city
